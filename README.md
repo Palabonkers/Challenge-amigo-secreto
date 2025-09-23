@@ -37,6 +37,8 @@ aleatorio para escoger quién será el "amigo secreto".
 5.  El sistema mostrará al azar el amigo secreto.
 
 
+Desarrollado por Pablo Hernan Paladino como parte de su proceso de aprendizaje en Principiante en Programación del programa ONE de Oracle y Alura Latam
+
 
 
 
