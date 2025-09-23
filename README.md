@@ -1,12 +1,40 @@
-# Challenge-amigo-secreto
+# 🎁 Challenge Amigo Secreto de alura
 
-🎁 Juego Amigo Secreto
-Descripción
-Este proyecto es un juego desarrollado en JavaScript que permite ingresar nombres de participantes y revelar aleatoriamente el amigo secreto de cada uno. Es ideal para organizar intercambios de regalos o simplemente disfrutar una dinámica divertida entre amigos. Características principales
+Aplicación web sencilla para organizar un sorteo de **Amigo Secreto**.\
+Permite ingresar nombres de amigos, listarlos y realizar un sorteo
+aleatorio para escoger quién será el "amigo secreto".
 
-Ingreso dinámico de nombres.
-Asignación aleatoria de amigo secreto.
-Revelación individual para mantener la sorpresa.
-HTML
-CSS
-JavaScript
+## 📌 Características
+
+-   ➕ Añadir amigos a una lista.\
+-   📃 Visualizar todos los amigos agregados.\
+-   🎲 Sortear un amigo secreto de manera aleatoria.\
+-   🎨 Interfaz amigable con estilos personalizados en CSS.
+
+## 🛠️ Tecnologías usadas
+
+-   **HTML5** → Estructura de la aplicación.\
+-   **CSS** → Estilos y diseño responsivo.\
+-   **JavaScript** → Lógica para añadir amigos, mostrar lista
+    y realizar el sorteo.
+
+## 📂 Estructura del proyecto
+
+    📦 amigo-secreto
+     ┣ 📜 index.html      # Estructura principal de la aplicación
+     ┣ 📜 style.css       # Estilos y diseño
+     ┣ 📜 app.js          # Lógica del sorteo y manejo de lista
+     ┗ 📂 assets/         # Imágenes e íconos usados en la interfaz
+
+## 🚀 Uso
+
+1.  Abre el proyecto en tu navegador con `index.html`.\
+2.  Escribe el nombre de un amigo en el campo de texto.\
+3.  Haz clic en **Añadir** para agregarlo a la lista.\
+4.  Una vez agregados los amigos, presiona **Sortear amigo** 🎲.\
+5.  El sistema mostrará al azar el amigo secreto.
+
+## 📸 Vista previa
+
+
+
