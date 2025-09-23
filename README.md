@@ -14,8 +14,8 @@ aleatorio para escoger quién será el "amigo secreto".
 ## 🛠️ Tecnologías usadas
 
 -   **HTML5** → Estructura de la aplicación.\
--   **CSS3** → Estilos y diseño responsivo.\
--   **JavaScript (Vanilla)** → Lógica para añadir amigos, mostrar lista
+-   **CSS** → Estilos y diseño responsivo.\
+-   **JavaScript** → Lógica para añadir amigos, mostrar lista
     y realizar el sorteo.
 
 ## 📂 Estructura del proyecto
@@ -35,10 +35,6 @@ aleatorio para escoger quién será el "amigo secreto".
 3.  Haz clic en **Añadir** para agregarlo a la lista.\
 4.  Una vez agregados los amigos, presiona **Sortear amigo** 🎲.\
 5.  El sistema mostrará al azar el amigo secreto.
-
-## 📸 Vista previa
-
-![Vista previa de la app](assets/amigo-nuevo.png)
 
 
 
