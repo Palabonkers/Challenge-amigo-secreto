@@ -26,8 +26,7 @@ aleatorio para escoger quién será el "amigo secreto".
      ┣ 📜 style.css       # Estilos y diseño
      ┣ 📜 app.js          # Lógica del sorteo y manejo de lista
      ┗ 📂 assets/         # Imágenes e íconos usados en la interfaz
-        ┗ amigo-nuevo.png # Imagen de vista previa
-
+        
 ## 🚀 Uso
 
 1.  Abre el proyecto en tu navegador con `index.html`.\
